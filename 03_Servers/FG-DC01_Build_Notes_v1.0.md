@@ -31,6 +31,23 @@ NAT (Initial Deployment)
 Build Date: 
 Pending
 
+## Server Identity
+
+Hostname:
+FG-DC01
+
+Operating System:
+Windows Server 2025
+
+Initial DHCP Address:
+192.168.238.128
+
+Assigned Static Address:
+192.168.238.10
+
+Gateway:
+192.168.238.2
+
 ## Issues Encountered
 
 VMware displayed a warning indicating that Virtualized Intel VT-x/EPT was not supported.
