@@ -48,6 +48,17 @@ Assigned Static Address:
 Gateway:
 192.168.238.2
 
+## Active Directory Domain Services
+
+Installation Status:
+Installed
+
+Promotion Status:
+Pending
+
+Snapshot Created:
+FG-DC01 - ADDS Installed
+
 ## Issues Encountered
 
 VMware displayed a warning indicating that Virtualized Intel VT-x/EPT was not supported.
