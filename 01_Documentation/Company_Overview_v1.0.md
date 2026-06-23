@@ -89,3 +89,30 @@ Infrastructure should be designed to support future growth and operational needs
 | Version | Date | Change |
 |----------|----------|----------|
 | 1.0 | 2026-06-23 | Initial company overview created |
+
+## Company Culture
+
+Forge Technologies promotes innovation, continuous learning, collaboration, and security-first thinking. Employees are encouraged to develop technical skills, embrace automation, document processes, and contribute to operational excellence.
+
+## Core Technology Stack
+
+- Windows Server
+- Microsoft 365
+- Microsoft Entra ID
+- AWS
+- PowerShell
+- Windows 11
+- Splunk
+- Wazuh
+- pfSense
+
+## Business Operations
+
+Business Hours:
+Monday - Friday
+
+8:00 AM - 6:00 PM
+
+Support Coverage:
+24/7 On-Call Rotation
+
