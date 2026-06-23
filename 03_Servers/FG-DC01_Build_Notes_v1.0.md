@@ -59,6 +59,26 @@ Pending
 Snapshot Created:
 FG-DC01 - ADDS Installed
 
+## Domain Promotion
+
+Domain Name:
+forge.local
+
+NetBIOS Name:
+FORGE
+
+Promotion Status:
+Completed
+
+DNS:
+Installed
+
+Global Catalog:
+Enabled
+
+Promotion Date:
+2026-06-23
+
 ## Issues Encountered
 
 VMware displayed a warning indicating that Virtualized Intel VT-x/EPT was not supported.
