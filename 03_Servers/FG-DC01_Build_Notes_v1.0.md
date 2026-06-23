@@ -28,8 +28,21 @@ Disk:
 Network:
 NAT (Initial Deployment)
 
-Build Date:
+Build Date: 
 Pending
+
+## Issues Encountered
+
+VMware displayed a warning indicating that Virtualized Intel VT-x/EPT was not supported.
+
+Root Cause:
+Nested virtualization was enabled in VM processor settings.
+
+Resolution:
+Disabled Virtualize Intel VT-x/EPT and Virtualize IOMMU under Processor settings.
+
+Outcome:
+VM booted successfully.
 
 Notes:
 
